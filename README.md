@@ -1,1 +1,1 @@
-# SDM_AWS_Docker
+# SDM_AWS_Docker sample demo
